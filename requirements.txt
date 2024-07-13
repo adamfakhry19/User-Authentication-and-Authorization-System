@@ -1,0 +1,6 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+djangorestframework-roles
+psycopg2-binary
+sqlalchemy psycopg2-binary
